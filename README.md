@@ -5,6 +5,8 @@
 [![License Badge](https://img.shields.io/github/license/torch2424/vaporBoy.svg)](https://github.com/torch2424/vaporBoy/blob/master/LICENSE)
 ![GitHub package version](https://img.shields.io/github/package-json/v/torch2424/vaporBoy.svg)
 
+# Play [Vaporboy](https://vaporboy.net)
+
 An _A E S T H E T I C_ GB / GBC Emulator PWA. Powered by [wasmBoy](https://github.com/torch2424/wasmBoy).
 
 [Talk given at WebAssembly SF March 28th, 2019](https://youtu.be/ZlL1nduatZQ)
