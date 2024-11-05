@@ -2,7 +2,6 @@
 
 <!-- Badges -->
 
-[![Build Status](https://travis-ci.org/torch2424/vaporBoy.svg?branch=master)](https://travis-ci.org/torch2424/vaporBoy)
 [![License Badge](https://img.shields.io/github/license/torch2424/vaporBoy.svg)](https://github.com/torch2424/vaporBoy/blob/master/LICENSE)
 ![GitHub package version](https://img.shields.io/github/package-json/v/torch2424/vaporBoy.svg)
 
