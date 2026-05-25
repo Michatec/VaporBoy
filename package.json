@@ -41,7 +41,7 @@
     "wasmboy": "0.7.1"
   },
   "devDependencies": {
-    "chokidar-cli": "^2.1.0",
+    "chokidar-cli": "^3.0.0",
     "concurrently": "^9.0.0",
     "eslint": "^10.0.0",
     "eslint-config-synacor": "^1.1.0",
