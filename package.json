@@ -31,7 +31,7 @@
     "build/*"
   ],
   "dependencies": {
-    "aesthetic-css": "1.0.0",
+    "aesthetic-css": "1.0.1",
     "idb": "^2.1.2",
     "load-script": "^1.0.0",
     "normalize.css": "^8.0.0",
