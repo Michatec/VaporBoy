@@ -33,7 +33,7 @@
   "dependencies": {
     "aesthetic-css": "1.0.1",
     "idb": "^2.1.2",
-    "load-script": "^1.0.0",
+    "load-script": "^2.0.0",
     "normalize.css": "^8.0.0",
     "preact": "^8.2.1",
     "preact-compat": "^3.17.0",
