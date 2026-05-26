@@ -47,7 +47,7 @@
     "eslint-config-synacor": "^1.1.0",
     "husky": "^9.0.0",
     "if-env": "^1.0.0",
-    "np": "^7.5.0",
+    "np": "^11.0.0",
     "npm-run-all2": "^5.0.0",
     "preact-cli": "^2.2.1",
     "preact-cli-sw-precache": "^1.0.3",
